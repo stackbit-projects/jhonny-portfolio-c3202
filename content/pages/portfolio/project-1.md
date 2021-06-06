@@ -5,7 +5,7 @@ date: '2020-05-10'
 thumb_image: /images/Screenshot_1.png
 thumb_image_alt: TripleLift
 image: /images/Screenshot_2.png
-image_alt: 'White, black, and red shoe sole'
+image_alt: video provider
 seo:
   title: Project Title 1
   description: This is the project 1 description
