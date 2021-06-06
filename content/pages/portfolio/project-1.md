@@ -1,5 +1,5 @@
 ---
-title: Triplelift
+title: TripleLift
 subtitle: ads of triplelift company
 date: '2019-05-10'
 thumb_image: /images/Screenshot_1.png
