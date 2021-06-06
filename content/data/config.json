@@ -73,5 +73,6 @@
             }
         ]
     },
-    "domain": "https://jhonny-portfolio.com"
+    "domain": "https://jhonny-portfolio.com",
+    "favicon": "/images/jhonny-2.png"
 }
