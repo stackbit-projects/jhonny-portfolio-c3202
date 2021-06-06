@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Jhonny Alberto. Nice to meet you.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      ## Qualified, passionate, and technical fullstack developer with over
+      seven years of commercial experience,&#xD; particularly in web development
+      and valuable experience leading&#xD;&#xA;development teams.&#xD;&#xA;My
+      passion is to write clean, adaptable code using design patterns and best
+      practices with&#xD;&#xA;documentation.
     actions:
       - label: Let's talk
         url: /contact
