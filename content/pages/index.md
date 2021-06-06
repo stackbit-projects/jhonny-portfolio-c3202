@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Jhonny Alberto. Nice to meet you.'
     content: >
-      ## Qualified, passionate, and technical fullstack developer with over
+      ###### Qualified, passionate, and technical fullstack developer with over
       seven years of commercial experience,&#xD; particularly in web development
       and valuable experience leading&#xD;&#xA;development teams.&#xD;&#xA;My
       passion is to write clean, adaptable code using design patterns and best
