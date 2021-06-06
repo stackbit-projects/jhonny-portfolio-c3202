@@ -1,5 +1,5 @@
 ---
-title: TripleLift
+title: Gatsby with WordPress
 subtitle: ads of TripleLift company
 date: '2020-05-10'
 thumb_image: /images/Screenshot_1.png
