@@ -43,9 +43,9 @@ sections:
           for performance, scale and stability.
         title: Database Design
       - title: Cloud Integration
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Deployment and maintenance of your apps in a wide range of Cloud
+          Services, from fully managed to highly customizable VPS
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
