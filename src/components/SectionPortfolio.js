@@ -50,7 +50,7 @@ export default class SectionPortfolio extends React.Component {
         const viewAllLabel = _.get(section, 'view_all_label');
         const viewAllUrl = _.get(section, 'view_all_url');
         const projects = _.orderBy(_.get(this.props, 'projects', []), 'date', 'desc');
-        const projectsNumber = _.get(section, 'projects_number', 6);
+        const projectsNumber = _.get(section, 'projects_number', 5);
         const recentProjects = projects.slice(0, projectsNumber);
         const projectCount = _.size(recentProjects);
 
