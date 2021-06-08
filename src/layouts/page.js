@@ -30,7 +30,7 @@ export default class Page extends React.Component {
                                 <p class="avatar-skill">React | Node JS</p>                                
                             </div>
                         )}
-                        <p>contact me on upwork</p>
+                        <p>contact me on <a href="#">upwork</a></p>
                         {/* {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>} */}
                     </article>
                 </div>
