@@ -70,8 +70,9 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Jhonny was very pleasant to work with, and I would highly recommend
+          choosing him for your next gig. We have done several gigs with Jhonny
+          and plan to do more in the future.
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
