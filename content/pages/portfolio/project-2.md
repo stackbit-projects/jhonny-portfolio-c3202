@@ -34,6 +34,8 @@ seo:
       relativeUrl: true
 layout: project
 ---
+Github repo: https://github.com/jhonny-alberto/invoice-web-app
+
 ##### It is based on MERN stack.&#xD;&#xA;It uses react smarthr admin template as frontend template.&#xD;&#xA;It uses stripe card and stripe bank transfer as a payment gateway.&#xD;&#xA;&#xD;
 
 ##### It uses react-stripe-elements module.&#xD;&#xA;There are many reference data for stripe card payment.&#xD;&#xA;But the data for stripe bank transfer is lack. So It took some time to implement it.&#xD;
