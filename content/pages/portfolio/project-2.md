@@ -3,7 +3,7 @@ title: Invoice
 subtitle: Invoice web app by Stripe payment
 date: '2019-04-30'
 thumb_image: /images/Screenshot_5.png
-thumb_image_alt: An orange on a blue background
+thumb_image_alt: invoice
 image: images/2.jpg
 image_alt: An orange on a blue background
 seo:
