@@ -42,7 +42,7 @@ sections:
           Proper-Database design for effective Web development, always aiming
           for performance, scale and stability.
         title: Database Design
-      - title: Service title
+      - title: Cloud Integration
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
