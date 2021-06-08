@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Let's break the ice a little.
-image: images/about.jpg
+image: /images/jhonny-2.png
 image_alt: A man taking a picture
 seo:
   title: About Us
