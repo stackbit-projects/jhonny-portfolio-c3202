@@ -5,7 +5,7 @@ date: '2019-01-05'
 thumb_image: /images/Screenshot_10.png
 thumb_image_alt: sport vote
 image: /images/Screenshot_11.png
-image_alt: A white gamepad on a green background
+image_alt: vote method 1
 seo:
   title: Project Title 5
   description: This is the project 5 description
