@@ -59,7 +59,7 @@ sections:
           Fast and thorough, sharp as a tack. Was able to understand the vague
           requirements and complete objectives on time as discussed.
           Recommended, would work with again.
-      - author: Aubrey Hoover
+      - author: Erik Nigel
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
