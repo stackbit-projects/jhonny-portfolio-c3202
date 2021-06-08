@@ -30,7 +30,7 @@ export default class Post extends React.Component {
                         {image && (
                             <div className="post-image">
                                 <img src={withPrefix(image)} alt={imageAlt} />
-                                <p class=""
+                                <p class="avatar-name">Jhonny Alberto</p>
                             </div>
                         )}
                         {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
