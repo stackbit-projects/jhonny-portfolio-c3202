@@ -39,10 +39,9 @@ sections:
           Integration with any third-party API of your choice.
 
           Extend the functionality of your apps with the least amount of effort.
-      - content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+      - content: >
+          Proper-Database design for effective Web development, always aiming
+          for performance, scale and stability.
         title: Database Design
       - title: Service title
         content: >-
