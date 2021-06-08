@@ -31,7 +31,7 @@ export default class Post extends React.Component {
                             <div className="post-image">
                                 <img src={withPrefix(image)} alt={imageAlt} />
                                 <p class="avatar-name">Jhonny Alberto</p>
-                                <p class="avatar-skill">React|Node JS</p>
+                                <p class="avatar-skill">React | Node JS</p>
                             </div>
                         )}
                         {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
