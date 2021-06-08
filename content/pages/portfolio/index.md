@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Here are .
 layout_style: mosaic
 seo:
   title: Portfolio
