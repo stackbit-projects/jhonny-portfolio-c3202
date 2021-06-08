@@ -29,7 +29,7 @@ export default class Post extends React.Component {
                         </header>
                         {image && (
                             <div className="post-image">
-                                <
+                                <div cl
                                 <img src={withPrefix(image)} alt={imageAlt} />
                             </div>
                         )}
