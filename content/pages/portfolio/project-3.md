@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-URL :  
+URL : https://lifetech.netlify.app/
 
 Github Repo: [https://github.com/jhonny-alberto/react-elevator-dashboard](https://github.com/jhonny-alberto/react-elevator-dashboardIt)
 
