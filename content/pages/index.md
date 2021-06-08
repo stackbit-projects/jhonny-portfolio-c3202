@@ -63,8 +63,9 @@ sections:
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Great experience working with Jhonny. He successfully completed the
+          task on deadline and with all functionality needed. I will work with
+          him again. He also communicated very clearly.
       - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
