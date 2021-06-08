@@ -29,9 +29,7 @@ export default class Post extends React.Component {
                         </header>
                         {image && (
                             <div className="post-image">
-                                <div className="post-image-inner">
-                                    <img src={withPrefix(image)} alt={imageAlt} />
-                                </div>
+                                <img src={withPrefix(image)} alt={imageAlt} />
                             </div>
                         )}
                         {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
