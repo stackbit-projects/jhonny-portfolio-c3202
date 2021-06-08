@@ -49,7 +49,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: testimonials from my clients
     col_number: three
     testimonials:
       - author: Ryan Long
