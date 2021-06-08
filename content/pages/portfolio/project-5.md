@@ -3,7 +3,7 @@ title: Bolao
 subtitle: sport vote in BrazilBolao
 date: '2019-01-05'
 thumb_image: /images/Screenshot_10.png
-thumb_image_alt: A white gamepad on a green background
+thumb_image_alt: vote method
 image: images/5.jpg
 image_alt: A white gamepad on a green background
 seo:
