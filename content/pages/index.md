@@ -35,10 +35,10 @@ sections:
         content: |
           Fast, responsive and engaging apps that bring your ideas to life
       - title: Third-Party API Integration
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: |
+          Integration with any third-party API of your choice.
+
+          Extend the functionality of your apps with the least amount of effort.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
