@@ -5,7 +5,7 @@ date: '2019-04-30'
 thumb_image: /images/Screenshot_5.png
 thumb_image_alt: invoice
 image: /images/friendly-giraffe.png
-image_alt: An orange on a blue background
+image_alt: invoice dashboard
 seo:
   title: Project Title 2
   description: This is the project 2 description
