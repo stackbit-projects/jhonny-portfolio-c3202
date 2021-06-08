@@ -66,7 +66,7 @@ sections:
           Great experience working with Jhonny. He successfully completed the
           task on deadline and with all functionality needed. I will work with
           him again. He also communicated very clearly.
-      - author: Deegan Wallace
+      - author: Nick Holland
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
