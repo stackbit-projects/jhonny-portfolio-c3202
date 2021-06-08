@@ -3,7 +3,7 @@ title: Dashboard2
 subtitle: Dashboard based on dockerized Vue.js and Larvel
 date: '2019-02-26'
 thumb_image: images/4_thumb.jpg
-thumb_image_alt: Dashboard
+thumb_image_alt: cultDashboard
 image: images/4.jpg
 image_alt: A table tennis racket on a pink background
 seo:
