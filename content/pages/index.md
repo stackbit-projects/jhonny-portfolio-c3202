@@ -55,7 +55,7 @@ sections:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
-        content: Fast .
+        content: Fast and thorough.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
