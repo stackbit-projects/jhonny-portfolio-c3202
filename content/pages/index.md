@@ -21,7 +21,7 @@ sections:
     layout_style: mosaic
     title: My Recent Work
     subtitle: Here are a few projects I've worked on recently.
-    projects_number: 6
+    projects_number: 5
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
