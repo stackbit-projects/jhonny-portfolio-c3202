@@ -35,10 +35,9 @@ sections:
         content: |
           Fast, responsive and engaging apps that bring your ideas to life
       - title: Third-Party API Integration
-        content: |
-          Integration with any third-party API of your choice.
-
-          Extend the functionality of your apps with the least amount of effort.
+        content: >
+          Integration with any third-party API of your choice. Extend the
+          functionality of your apps with the least amount of effort.
       - content: >
           Proper-Database design for effective Web development, always aiming
           for performance, scale and stability.
