@@ -32,9 +32,8 @@ export default class Page extends React.Component {
                         )}
                         <div className="post-content inner-sm">
                             <p className="post-contact">contact me on <a href="#">upwork</a></p>
-                            <p></p>
                         </div>
-                        {/* {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>} */}
+                        {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
                     </article>
                 </div>
             </Layout>
