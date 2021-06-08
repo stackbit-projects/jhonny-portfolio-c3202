@@ -2,7 +2,7 @@
 title: Dashboard1
 subtitle: Dashboard using React Material UI
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: /images/Screenshot_6.png
 thumb_image_alt: lifetech dashboard
 image: images/3.jpg
 image_alt: dashboard for analyzing elevator performance
