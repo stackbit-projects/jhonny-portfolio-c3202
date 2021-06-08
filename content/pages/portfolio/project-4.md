@@ -5,7 +5,7 @@ date: '2019-02-26'
 thumb_image: images/4_thumb.jpg
 thumb_image_alt: dashboard
 image: images/4.jpg
-image_alt: A table tennis racket on a pink background
+image_alt: cultbooking dashboard
 seo:
   title: Project Title 4
   description: This is the project 4 description
