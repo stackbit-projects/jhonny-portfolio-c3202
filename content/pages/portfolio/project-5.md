@@ -4,7 +4,7 @@ subtitle: sport vote in BrazilBolao
 date: '2019-01-05'
 thumb_image: /images/Screenshot_10.png
 thumb_image_alt: sport vote
-image: images/5.jpg
+image: /images/Screenshot_11.png
 image_alt: A white gamepad on a green background
 seo:
   title: Project Title 5
