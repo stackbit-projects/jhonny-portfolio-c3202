@@ -55,11 +55,13 @@
   width: 150px;
   height: 150px;
   &-inner {
-      
-  }
-  img {
-    width: 100%;
-    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+        width: 100%;
+        border-radius: 50%;
+    }
   }
 }
 
