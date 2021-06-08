@@ -39,8 +39,7 @@ sections:
           Integration with any third-party API of your choice.
 
           Extend the functionality of your apps with the least amount of effort.
-      - title: Service Title
-        content: >-
+      - content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
