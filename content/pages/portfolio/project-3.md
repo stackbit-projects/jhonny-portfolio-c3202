@@ -5,7 +5,7 @@ date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: lifetech dashboard
 image: images/3.jpg
-image_alt: A yellow retro telephone on a yellow background
+image_alt: dashboard for analyzing elevator performance
 seo:
   title: Project Title 3
   description: This is the project 3 description
