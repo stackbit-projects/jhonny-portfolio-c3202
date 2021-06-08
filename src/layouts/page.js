@@ -26,13 +26,11 @@ export default class Page extends React.Component {
                         {image && (
                             <div className="post-image">
                                 <img src={withPrefix(image)} alt={imageAlt} />
-                                <p class="avatar-name">Jhonny Alberto</p>
-                                <p class="avatar-skill">React | Node JS</p>                                
+                                <p className="avatar-name">Jhonny Alberto</p>
+                                <p className="avatar-skill">React | Node JS</p>                                
                             </div>
                         )}
-                        <div className
-                        <p>contact me on <a href="#">UPWORK</a></p>
-                        {/* {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>} */}
+                        {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
                     </article>
                 </div>
             </Layout>
