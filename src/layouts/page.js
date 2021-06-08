@@ -31,7 +31,7 @@ export default class Page extends React.Component {
                             </div>
                         )}
                         <div className="post-content">
-                            <p className="post-contact">contact me on </p>
+                            <p className="post-contact">contact me on <a href="#">upwork</a></p>
                         </div>
                         {/* {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>} */}
                     </article>
