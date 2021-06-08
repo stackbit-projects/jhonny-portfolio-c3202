@@ -4,7 +4,7 @@ subtitle: Dashboard based on dockerized Vue.js and Larvel
 date: '2019-02-26'
 thumb_image: /images/Screenshot_8.png
 thumb_image_alt: dashboard
-image: images/4.jpg
+image: /images/Screenshot_9.png
 image_alt: cultbooking dashboard
 seo:
   title: Project Title 4
