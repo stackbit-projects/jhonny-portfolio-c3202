@@ -2,7 +2,7 @@
 subtitle: e-commerce using Next.js and Commerce.js
 date: '2021-06-13'
 thumb_image_alt: 'Facial products, Hair products, Body products'
-image_alt: e-
+image_alt: e-commerce using Next.js and Commerce.js
 seo:
   title: ''
   description: ''
