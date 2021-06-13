@@ -11,6 +11,7 @@ seo:
   type: stackbit_page_meta
 layout: project
 title: e-commerce
+thumb_image: /images/e-commerce.png
 ---
 ## Lorem ipsum
 
