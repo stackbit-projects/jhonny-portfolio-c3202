@@ -1,5 +1,5 @@
 ---
-title: ecommerce
+title: e-commerce
 subtitle: lorem-ipsum
 date: '2021-06-13'
 thumb_image_alt: lorem-ipsum
