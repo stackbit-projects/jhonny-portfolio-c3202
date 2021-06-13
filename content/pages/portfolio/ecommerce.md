@@ -12,6 +12,7 @@ seo:
 layout: project
 title: e-commerce
 thumb_image: /images/e-commerce.png
+image: /images/e-commerce-1.png
 ---
 ## Lorem ipsum
 
