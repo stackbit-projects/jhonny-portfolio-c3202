@@ -10,6 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: project
+title: e-commerce
 ---
 ## Lorem ipsum
 
