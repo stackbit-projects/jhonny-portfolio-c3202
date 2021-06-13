@@ -14,9 +14,10 @@ title: e-commerce
 thumb_image: /images/e-commerce.png
 image: /images/e-commerce-1.png
 ---
-## Lorem ipsum
+## Commerce
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+GitHub Repo: [https://github.com/jhonny-alberto/ecommerce-nextjs](https://github.com/jhonny-alberto/ecommerce-nextjsE-commerce)
 
-- Lorem ipsum
-- dolor sit amet
+[E-Commerce](https://github.com/jhonny-alberto/ecommerce-nextjsE-commerce) website using Next.js and Commerce.js
+
+It contains Facial Products, Hair Products, Body Products.
