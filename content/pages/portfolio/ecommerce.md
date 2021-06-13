@@ -1,5 +1,5 @@
 ---
-title: e-commerce
+title: e-commerce using Next.js and Commerce.js
 subtitle: lorem-ipsum
 date: '2021-06-13'
 thumb_image_alt: lorem-ipsum
